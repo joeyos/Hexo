@@ -1,5 +1,5 @@
 ﻿# Hexo
-Build a Bolg page by Hexo.
+Build a Blog page by Hexo.
 ---
 ### ◎index
 ---
